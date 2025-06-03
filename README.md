@@ -26,7 +26,10 @@
 • Reminders are saved locally using **Room Database**  
 
 ✅ **Filtering**  
-• Filter reminders to quickly find what you need  
+• Filter reminders to quickly find what you need based on By Add Date Time, By Upcoming Latest, or By Expired  
+
+✅ **Search Reminder**  
+• Search reminders by title for fast access  
 
 ✅ **App Settings**  
 • Toggle Dark Mode (On/Off)  
