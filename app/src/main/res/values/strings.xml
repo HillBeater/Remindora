@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Remindora</string>
+    <string name="default_web_client_id">973434597990-4absefqv8m2d6pjj8oheus5kghnqs1b9.apps.googleusercontent.com</string>
+    <string name="create_account_title">Create Your Account</string>
+    <string name="signIn_account_title">Sign In Your Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="have_account">Have an account?</string>
+    <string name="or_sign_up_with">or sign up with</string>
+    <string name="or_sign_in_with">or sign in with</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_account_sign_in">Don\'t have an account?</string>
+    <string name="google_clicked">Google clicked</string>
+    <string name="apple_clicked">Apple clicked</string>
+    <string name="x_clicked">X (Twitter) clicked</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

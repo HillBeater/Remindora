@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Remindora" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="colorOnPrimary">@color/colorWhite</item>
+    <item name="colorSecondary">@color/colorSecondary</item>
+    <item name="colorOnSecondary">@color/colorBlack</item>
+    <item name="backgroundColor">@color/colorBlack</item>
+    <item name="colorOnBackground">@color/colorBlack</item>
+    <item name="cardBackgroundColor">@color/colorSecondaryButton</item>
+    <item name="android:statusBarColor">@color/colorPrimary</item>
+    <item name="android:windowBackground">@color/colorWhite</item>
+    </style>
+
+    <style name="Theme.Remindora.Splash" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="android:statusBarColor">@color/colorPrimary</item>
+    </style>
+
+    <style name="MyTimePickerDialogTheme" parent="ThemeOverlay.Material3.MaterialTimePicker">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/colorBlack</item>
+        <item name="colorSecondary">@color/colorPrimary</item>
+        <item name="colorOnSecondary">@color/colorWhite</item>
+    </style>
+
+    <style name="MyCalendarDialogTheme" parent="ThemeOverlay.Material3.MaterialCalendar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/colorBlack</item>
+        <item name="colorSecondary">@color/colorPrimary</item>
+        <item name="colorOnSecondary">@color/colorWhite</item>
+    </style>
+
+</resources>
